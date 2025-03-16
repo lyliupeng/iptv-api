@@ -1,11 +1,11 @@
 { 
     "urls": [
+         {"url": "https://www.0539ck.com:8088/TV/YS.json","name": "🐷半生琉璃"},
         { "url": "http://www.饭太硬.com/tv", "name": "饭太硬" },
         { "url": "http://fan.xxooo.cf/tv", "name": "饭太硬（备用）" },
         {"url": "http://ok321.top/ok","name": "🦁Ok佬"},
         {"url":"http://meowtv.cn/tv","name":"🚀喵影视"},
-        {"url": "https://www.0539ck.com:8088/TV/YS.json","name": "🐷半生琉璃"},
-        {"url": "https://www.0539ck.com:8088/TV/PiG/jsm.json","name": "🐷网盘影视"},
+        {"url": "https://www.0539ck.com:8088/TV/PiG/jsm.json","name": "🐷PiG影视"},
         {"url": "https://www.0539ck.com:8088/TV/DJ.json","name": "🐷琉璃短剧"},
         {"url": "http://111.180.198.177:866/%E7%88%B1%E5%B0%9A.txt","name": "🌹爱尚专线"}
     ]
