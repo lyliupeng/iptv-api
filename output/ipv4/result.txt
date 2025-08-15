@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-15 18:17:04,url
+2025-08-16 06:16:06,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 
 📺央视频道,#genre#
 
@@ -12,6 +12,8 @@
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
+浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
+象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
 
 ☘️北京频道,#genre#
 
