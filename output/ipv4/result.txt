@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-18 06:16:49,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
+2025-08-18 18:19:15,url
 
 📺央视频道,#genre#
 
@@ -12,7 +12,6 @@
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
-浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 
 ☘️北京频道,#genre#
 
